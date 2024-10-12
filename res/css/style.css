@@ -724,3 +724,12 @@
     margin-bottom: 0;
   }
 }
+
+/*
+  Sweet  Alert
+    ------------
+*/
+.swal2-popup-custom {
+  width: 400px; /* Adjust width */
+  max-width: 100%; /* Make sure it is responsive */
+}
